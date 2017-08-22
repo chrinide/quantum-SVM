@@ -1,5 +1,9 @@
 # quantum-SVM
-The quantum version of support vector machine using QuTip.
+The quantum version of support vector machine to recognize handwritten 6 and 9 using QuTip.
+
+Demonstation for result:
+
+![Alt text](./demo_4.png?raw=true "Title")
 
 Reference: Li, Zhaokai, et al. "Experimental realization of a quantum support vector machine." Physical review letters 114.14 (2015): 140504.
 
