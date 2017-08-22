@@ -3,7 +3,7 @@ The quantum version of support vector machine to recognize handwritten 6 and 9 u
 
 Demonstation for result:
 
-![Alt text](./demo_4.png?raw=true "Title")
+![Alt text](./demo.png?raw=true "Title")
 
 After installing QuTip, the files "circuit.py and gates.py" in folder qutip/models are replaced by the corresponding files in this repository.
 
