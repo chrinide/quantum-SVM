@@ -1,7 +1,7 @@
 # quantum-SVM
 The quantum version of support vector machine to recognize handwritten 6 and 9 using QuTip.
 
-Demonstation for result:
+Demonstation for results:
 
 ![Alt text](./demo.png?raw=true "Title")
 
