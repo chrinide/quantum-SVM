@@ -14,4 +14,4 @@ Reference:
 
 If you have any questions, please feel free to contact me. I'm looking forward to hearing from any suggestions for further improvement. :) 
 
-Jinlong(Daniel) Huang
+Jinlong(Darius) Huang
