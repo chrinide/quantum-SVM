@@ -43,14 +43,14 @@ __all__ = ['Gate', 'QubitCircuit','theta1','theta2','theta0']
 theta1 = 0.1597
 theta2 = 1.2089
 # Change your test data here.
-theta0 = -0.0721
-# theta0 = 1.2260
-# theta0 = 1.4232
-# theta0 = 0.0250
-# theta0 = -0.0300
-# theta0 = 1.1165
-# theta0 = -0.1617
-# theta0 = 1.3969
+theta0 = -0.0721    # 6
+# theta0 = 1.2260   # 9
+# theta0 = 1.4232   # 9
+# theta0 = 0.0250   # 6
+# theta0 = -0.0300  # 6
+# theta0 = 1.1165   # 9
+# theta0 = -0.1617  # 6
+# theta0 = 1.3969   # 9
 
 
 class Gate(object):
